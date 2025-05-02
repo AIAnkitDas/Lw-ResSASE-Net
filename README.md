@@ -4,7 +4,7 @@ The COVID-19 has taken a lot of lives across the world and has left some with li
 ### Citation:
 R. Pal, B. Panda, A. Das and S. Bandyopadhyay, "Lw-ResSASE-Net: A Lightweight Attention-Based Residual Network for Covid-19 and Pneumonia Prediction Using Chest X-Ray," 2024 4th International Conference on Computer, Communication, Control & Information Technology (C3IT), Hooghly, India, 2024, pp. 1-5, doi: 10.1109/C3IT60531.2024.10829470.
 
-### CRediT author statement
+### CRediT author statement \n
 R. Pal - Coding and Implementation, Methodology, Software, Writing - Original Draft and Visualization
 B. Panda - Coding and Implementation, Methodology, Software, Writing - Original Draft and Visualization
 A. Das - Supervision, Methodology, Conceptualization, Validation, Writing - Review & Editing and Project administration
